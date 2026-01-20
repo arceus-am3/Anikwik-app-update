@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.0",
-  "min_supported": "1.0.0",
+  "latest": "1.0.1",
+  "min_supported": "1.0.1",
   "force": false,
-  "apk_url": "https://github.com/arceus-am3/Anikwik-app-update/releases/download/v1.0.0/app-release.apk"
+  "apk_url": "https://github.com/arceus-am3/Anikwik-app-update/releases/download/v1.0.1/app-release.apk"
 }
